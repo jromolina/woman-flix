@@ -1,5 +1,6 @@
 # woman-flix
-**Site estilizado para representar as _mulheres_ no cinema**
+
+**Site estilizado com HTML, CSS, JS, JQUERY, para representar as _mulheres_ no cinema**
 :princess:
 :ok_woman:
 :woman:
