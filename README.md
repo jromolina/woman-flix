@@ -6,4 +6,6 @@
 :older_woman:
 :womans_hat:
 
+*Disponível para acesso direto no link abaixo;*
 
+https://jromolina.github.io/woman-flix/
