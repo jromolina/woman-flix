@@ -1,2 +1,2 @@
 # woman-flix
-Site estilizado para representar as mulheres no cinema
+**Site estilizado para representar as _mulheres_ no cinema**
